@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Isaac Ortiz</h1>
 
-<h3 align="center">💻 Backend Developer | ☕ Java & Spring Boot | 📱 Flutter | 🌐 Svelte | 🚀 Full-Stack Builder</h3>
+<h3 align="center">💻 Backend Developer | ☕ Java & Spring Boot | 📱 Flutter | 🌐 Svelte 
 
 ---
 
