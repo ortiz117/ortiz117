@@ -22,8 +22,8 @@
 <br/>
 
 <div align="center">
-  Soy un desarrollador **backend en Java con Spring Boot**, apasionado por construir APIs escalables, limpias y bien estructuradas.<br/> 
-  Además, cuando el proyecto lo necesita, desarrollo **apps móviles en Flutter** y sistemas web rápidos con **SvelteKit**.
+  Soy un desarrollador backend en Java con Spring Boot, apasionado por construir APIs escalables, limpias y bien estructuradas.<br/> 
+  Además, cuando el proyecto lo necesita, desarrollo apps móviles en Flutter y sistemas web rápidos con SvelteKit.
   <br/><br/>
   🔭 <b>Enfoque actual:</b> Arquitectura limpia y Sistemas Distribuidos.<br/>
   🌱 <b>Aprendiendo:</b> Nuevas tecnologías para mejorar mis proyectos.
@@ -83,10 +83,7 @@
 
 <div align="center">
   <h3>✨ ¡Abierto a colaborar!</h3>
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:isaacortizarias@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </div>
